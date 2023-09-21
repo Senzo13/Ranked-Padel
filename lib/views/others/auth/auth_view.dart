@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ranked_padel/viewmodels/auth/auth_viewmodel.dart';
+import 'package:ranked_padel/viewmodels/others/auth/auth_viewmodel.dart';
 import 'package:ranked_padel/services/api/auth/authentication_service.dart';
 
 class LoginView extends StatefulWidget {

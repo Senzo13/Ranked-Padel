@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:ranked_padel/views/auth/auth_view.dart';
-import 'package:ranked_padel/services/preferences/user_preferences.dart';
-import 'package:ranked_padel/views/home/home_view.dart';
+import 'package:ranked_padel/views/others/auth/auth_view.dart';
+import 'package:ranked_padel/utils/preferences/user_preferences.dart';
+import 'package:ranked_padel/views/tabs/home/home_view.dart';
 import 'package:ranked_padel/main.dart';
-import 'package:ranked_padel/views/splash/splash_view.dart';
+import 'package:ranked_padel/views/others/splash/splash_view.dart';
 
 class AppRouter {
   static Route<dynamic> generateRoute(RouteSettings settings) {
