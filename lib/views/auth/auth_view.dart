@@ -1,12 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:ranked_padel/viewmodels/auth/auth_viewmodel.dart';
 
-class LoginPage extends StatefulWidget {
+class LoginView extends StatefulWidget {
+  const LoginView({super.key});
+
   @override
-  _LoginPageState createState() => _LoginPageState();
+  _LoginViewState createState() => _LoginViewState();
 }
 
-class _LoginPageState extends State<LoginPage> {
+class _LoginViewState extends State<LoginView> {
   final _viewModel = LoginViewModel();
   final _usernameController = TextEditingController();
   final _passwordController = TextEditingController();
