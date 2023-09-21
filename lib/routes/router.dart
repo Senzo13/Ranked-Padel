@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ranked_padel/views/others/auth/auth_view.dart';
 import 'package:ranked_padel/utils/preferences/user_preferences.dart';
+import 'package:ranked_padel/views/others/navigation/base.dart';
 import 'package:ranked_padel/views/tabs/home/home_view.dart';
 import 'package:ranked_padel/main.dart';
 import 'package:ranked_padel/views/others/splash/splash_view.dart';
@@ -19,7 +20,7 @@ class AppRouter {
                 if (snapshot.data == true) {
                   return const HomeView();
                 } else {
-                  return const LoginView();
+                  return const BaseLayout();
                 }
               }
               // Pendant le chargement, affichez le LoadingScreen
@@ -33,6 +34,8 @@ class AppRouter {
             builder: (_) => const SplashView()); // Route du splash screen
       case '/login':
         return MaterialPageRoute(builder: (_) => const LoginView());
+        case '/home':
+        return MaterialPageRoute(builder: (_) => const BaseLayout());
       // ... autres routes
       default:
         return MaterialPageRoute(
