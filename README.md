@@ -1,4 +1,4 @@
-# Ranked Padel 🎾
+# XPadel 🎾
 
 <div align="center" style="text-align:center">
 <img src="app.png" alt="Ranked Padel" width="50%" height="50%"/>
@@ -6,7 +6,7 @@
 
 ## Description 🔬
 
-Ranked Padel est une application mobile dédiée aux passionnés de Padel. Elle offre une plateforme pour organiser des matchs dans des centres spécialisés tout en proposant un système de classement avancé. Les joueurs peuvent se distinguer par leur niveau dans le Padel, avec un système de classement inspiré des grands jeux vidéo, où les joueurs commencent par des rangs tels que fer, bronze, et progressent à travers les échelons.
+XPadel est une application mobile dédiée aux passionnés de Padel. Elle offre une plateforme pour organiser des matchs dans des centres spécialisés tout en proposant un système de classement avancé. Les joueurs peuvent se distinguer par leur niveau dans le Padel, avec un système de classement inspiré des grands jeux vidéo, où les joueurs commencent par des rangs tels que fer, bronze, et progressent à travers les échelons.
 
 ## Fonctionnalités 📝
 
