@@ -35,8 +35,9 @@ Ranked Padel est une application mobile dédiée aux passionnés de Padel. Elle 
 
 ### Gestion de Projet 📋
 
-- [Jira Atlassian](https://faux-lien-jira.com/) <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira Atlassian logo"> - Pour la gestion des tickets.
-- [Confluence](https://faux-lien-confluence.com/) <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence logo"> - Pour la documentation du projet.
+- [Jira Atlassian](https://ranked-padel.atlassian.net/jira/software/projects/KAN/boards/1/backlog?epics=visible) <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira Atlassian logo"> - Pour la gestion des tickets.
+- [Confluence](https://ranked-padel.atlassian.net/wiki/spaces/RPD/overview) <img src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence logo"> - Pour la documentation du projet.
+- [Figma](https://www.figma.com/file/54uJvwjYhdNSHc2nQDzeKI/Untitled?type=design&node-id=0%3A1&mode=design&t=fL6n8mGpB5rfcwUr-1) <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma logo"> - Pour le design et les maquettes.
 
 ## Installation et Commandes Utiles 📟
 
